@@ -10,7 +10,7 @@ export default function About () {
 
 
     return (
-        <main className="flex flex-col lg:flex-row items-center lg:space-x-12 space-y-12 lg:space-y-0 justify-center   text-[#293241] scroll-mt-32" id="about" >
+        <main className="flex flex-col lg:flex-row items-center lg:space-x-12 space-y-12 lg:space-y-0 justify-center w-full  text-[#293241] scroll-mt-32" id="about" >
             <div className=" py-16 flex flex-col items-center bg-[#d6cfcb] w-full  lg:w-2/5 lg:h-[35rem]  h-full space-y-4 rounded-3xl shadow-xl h-auto">
                 
                 <Image />
